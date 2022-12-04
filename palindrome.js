@@ -5,7 +5,7 @@ let bag = "";{
         bag += num[i] 
     }
     
-        if(num[i]==bag)
+        if([i]==bag)
         {
           console.log("Yes")
         }
